@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Melven Bagolaque</h1>
+<h1 align="center">Hello 👋 I'm Shay!</h1>
 
 
-- 🌱 I’m currently learning **Javascipt**
+- 🌱 I’m currently learning **Javascipt and SQL**
 
-- 💬 Ask me about **Python**
+- 💬 Aside from programming languages and codes you may ask me about Architectural Planning and designing/Drafting
 
-- 📫 How to reach me **melvenbagolaque@gmail.com**
+- 📫 You may reach me via email **sczaydeleon@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
