@@ -3,10 +3,9 @@
 
 - 🌱 I’m currently learning **PostgreSQL** and **Javascript**
 
-- 💬 Aside from programming languages and codes you may ask me about Architectural Planning and designing/Drafting
+- 💬 Aside from programming languages and codes we can talk about Architectural Planning, 3D Perspectives and drafting.
 
-- 📫 You may reach me via email **sczaydeleon@gmail.com**
-<br>
+- 📫 You can also reach me via email **sczaydeleon@gmail.com**
 <br>
 <p align="center">
 <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
