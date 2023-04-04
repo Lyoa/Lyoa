@@ -12,7 +12,7 @@
 <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/hey_elpeeda" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="heyelpeeda" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/heyelpeeda" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="heyelpeeda" height="20" width="20" /></a>
