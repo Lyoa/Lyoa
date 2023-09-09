@@ -13,7 +13,8 @@
 <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
 <br>
-### 🛠 &nbsp;Languages and Tools :
+
+### 🛠️ &nbsp; Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -34,7 +35,7 @@
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rLyoa&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lyoa)](https://git.io/streak-stats)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
