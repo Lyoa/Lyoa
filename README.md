@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently taking a refresher in **React** and **Javascript**
 
-- 💬 Aside from programming languages and codes we can talk about Architectural Planning, 3D Perspectives and drafting.
+- 💬 Aside from coding we can talk about Architectural Planning, 3D Perspectives and drafting.
 
 - 📫 You can also reach me via email **sczaydeleon@gmail.com**
 <br>
