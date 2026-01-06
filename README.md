@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently taking a refresher in **React** and **Javascript**
 
-- 💬 Aside from coding we can talk about Architecture, 3D Perspectives and drafting.
-
 - 📫 You can also reach me via email **sczaydeleon@gmail.com**
 
 ### 🛠️ &nbsp; Languages and Tools :
@@ -32,6 +30,7 @@
 <a href="https://linkedin.com/in/heyelpeeda" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="heyelpeeda" height="20" width="20" /></a>
 <a href="https://instagram.com/sool.ace" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="heyelpeeda" height="20" width="20" /></a>
 </p>
+
 
 
 
